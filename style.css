@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: aliceblue;
+}
+header{
+    background-color: azure;
+    text-align: center;
+}
+header a {
+    text-decoration: none;
+    width: fit-content;
+    font-size: 30px;
+    text-align: center;
+    border: 3px black solid;
+    padding:1px 10px 1px 10px;
+    transition: font-size 1s;
+    color:black;
+    
+}
+a:hover{
+    font-size: 35px;
+}
+header h1{
+    font-size: 40px;
+    color: black;
+}
+h1 {
+    text-align: center;
+    position: relative;
+}
+.b {
+    position: absolute;
+    left: 670px;
+    bottom:0px;
+}
+img{
+    height: 100px;
+    width: 80px;
+}
+table {
+    border: 2px white solid;
+}
+td {
+    background-color: azure;
+    color: black;
+}
